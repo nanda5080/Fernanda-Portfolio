@@ -1,0 +1,21 @@
+.container {
+  max-width: 700px;
+}
+
+h3 {
+  margin: 16px 0;
+}
+
+.green-button {
+  background-color: #03d133;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 16px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.profile-image {
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
